@@ -1,0 +1,16 @@
+2019-10-29T03:55:28.234Z: caught: big fish pts=3
+2019-10-29T03:55:28.234Z: event: fell out of the boat pts=-10
+2019-10-29T03:55:28.234Z: caught: baby shark pts=5
+2019-10-29T03:55:28.234Z: event: lost your catch pts=-5
+2019-10-29T03:55:28.234Z: caught: lunker pts=6
+2019-10-29T03:55:28.234Z: event: lost your catch pts=-5
+2019-10-29T03:55:28.234Z: caught: baby shark pts=5
+2019-10-29T03:55:28.234Z: caught: turtle pts=4
+2019-10-29T03:55:28.234Z: event: dropped your pole pts=-1
+2019-10-29T03:55:28.234Z: caught: big fish pts=3
+2019-10-29T03:55:28.234Z: event: lost your catch pts=-5
+2019-10-29T03:55:28.234Z: caught: big fish pts=3
+2019-10-29T03:55:28.234Z: caught: baby shark pts=5
+2019-10-29T03:55:28.234Z: caught: turtle pts=4
+2019-10-29T03:55:28.234Z: event: dropped your pole pts=-1
+2019-10-29T03:55:28.234Z-======= Done Fishing, SCORE=11 ========
