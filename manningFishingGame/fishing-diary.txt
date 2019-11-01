@@ -1,0 +1,19 @@
+2019-10-31T05:28:25.852Z Fishing game has started! - not fishing yet 
+
+2019-10-31T05:28:25.852Z caught: medium Bluegill Event:dropped your pole into the water score=-25
+2019-10-31T05:28:25.852Z caught: big Bass  score=-22
+2019-10-31T05:28:25.852Z caught: small crappie  score=-17
+2019-10-31T05:28:25.852Z caught: largemouth Bass  score=-15
+2019-10-31T05:28:25.852Z caught: largemouth Bass Event:fell out of your boat. score=-35
+2019-10-31T05:28:25.852Z caught: medium Bluegill Event:fell out of your boat. score=-55
+2019-10-31T05:28:25.852Z caught: small sunfish  score=-52
+2019-10-31T05:28:25.852Z caught: small sunfish  score=-51
+2019-10-31T05:28:25.852Z caught: lunker  score=-50
+2019-10-31T05:28:25.852Z caught: lunker Event:fell out of your boat. score=-60
+2019-10-31T05:28:25.852Z caught: big Bass Event:fell out of your boat. score=-70
+2019-10-31T05:28:25.852Z caught: big Bass Event:dropped your pole into the water score=-90
+2019-10-31T05:28:25.852Z caught: largemouth Bass Event:dropped your pole into the water score=-110
+2019-10-31T05:28:25.852Z caught: largemouth Bass  score=-100
+2019-10-31T05:28:25.852Z caught: medium Bluegill Event:kicked over your bait score=-95
+2019-10-31T05:28:25.852Z======  Done Fishing!... Score=-92 =======
+
